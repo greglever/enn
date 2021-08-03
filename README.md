@@ -4,7 +4,7 @@ A library for uncertainty representation and training in neural networks.
 
 ## Introduction
 Many applications in deep learning requires or benefit from going beyond a
-point estimte and representing uncertainty about the model. The coherent use
+point estimate and representing uncertainty about the model. The coherent use
 of Bayes’ rule and probability theory are the gold standard for updating
 beliefs and estimating uncertainty. But exact computation quickly becomes
 infeasible for even simple problems. Modern machine learning has developed an
